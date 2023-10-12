@@ -1,5 +1,5 @@
 # ¡Hola! 👋🏻 Somos PixelPioneerss (Equipo 10) de inkuA
-𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢ó𝐧 𝐝𝐞𝐥 𝐩𝐫𝐨𝐲𝐞𝐜𝐭𝐨
+<h1> 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢ó𝐧 𝐝𝐞𝐥 𝐩𝐫𝐨𝐲𝐞𝐜𝐭𝐨 </h1>
 --> Idea
 HealthLoc es una innovadora aplicación web diseñada para simplificar la búsqueda y localización de centros de salud en distintas ciudades y distritos, ofreciendo una solución efectiva tanto para los habitantes locales como para los turistas. Abordamos el desafío común de encontrar atención médica de calidad de manera rápida y eficiente.
 
