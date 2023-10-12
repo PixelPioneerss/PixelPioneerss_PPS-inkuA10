@@ -32,5 +32,5 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
         </a>
   <h1>𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐧𝐭𝐞𝐬</h1>
   <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.icon-icons.com/icons2/3951/PNG/512/programmer_icon_251062.png" alt="java" width="20" height="20"/>
+            <img src="https://cdn.icon-icons.com/icons2/3951/PNG/512/programmer_icon_251062.png" alt="java" width="100" height="100"/>
         </a>
