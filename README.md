@@ -4,8 +4,8 @@
 <ul>
 HealthLoc es una innovadora aplicación web diseñada para simplificar la búsqueda y localización de centros de salud en distintas ciudades y distritos, ofreciendo una solución efectiva tanto para los habitantes locales como para los turistas. Abordamos el desafío común de encontrar atención médica de calidad de manera rápida y eficiente.
 </ul>
+--> ¿Qué problema resuelve?:
 <ul>
---> ¿Qué problema resuelve?: 
 En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgencia. HealthLoc resuelve este problema al proporcionar acceso instantáneo a información detallada sobre una amplia gama de centros de salud en diferentes lugares. ocasiones, tanto los residentes locales como los visitantes se enfrentan a la dificultad
 </ul>
 --> ¿Cómo lo resuleve?
