@@ -33,7 +33,9 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
  <h1>𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐧𝐭𝐞𝐬</h1>
 
 <h1>𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐝𝐞 𝐭𝐫𝐚𝐛𝐚𝐣𝐨</h1>
-
+<p> Ausente == X: &#10060;</p>
+<p> Presente == ✔️: &#10004; </p>
+<p> Justificado == 🟡: &#128995; </p>
 | **Sprint** | **Check**  |  **Scrum Asignado** 👨‍💻 |
 | ------------- | ------- | :-------------:|
 | Semana 1 | <ul><li>- [ ] </li>|*Brega Javier* |
