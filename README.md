@@ -30,5 +30,5 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
         <a href="https://www.google.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/google_maps_new_logo_icon_159147.png" alt="java" width="100" height="100"/>
         </a>
-  <h1>𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐧𝐭𝐞𝐬</h1>
+  <h1><img width="100" height="100" src="https://cdn.icon-icons.com/icons2/3951/PNG/512/programmer_icon_251062.png" alt="boy"/> 𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐧𝐭𝐞𝐬</h1>
 
