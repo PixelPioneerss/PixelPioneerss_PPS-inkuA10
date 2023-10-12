@@ -36,8 +36,8 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
 
 | **Sprint** | **Check**  |  **Scrum Asignado** 👨‍💻 |
 | ------------- | ------- | :-------------:|
-| Semana 1 | :heavy_check_mark:|*Brega Javier* |
-| Semana 1 | :heavy_check_mark:|*Caballero Gabriel* |
+| Semana 1 | <ul><li>- [ ] </li>|*Brega Javier* |
+| Semana 1 | <ul><li>- [ ] </li>|*Caballero Gabriel* |
 | Semana 1 | <ul><li>- [ ] </li>|*Cesaretti Gustavo* |
 | Semana 1 | <ul><li>- [ ] </li>|*Fernandez Leonardo* |
 | Semana 1 | <ul><li>- [ ] </li> |*Lopez Lucas* |
