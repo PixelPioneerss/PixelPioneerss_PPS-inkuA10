@@ -36,14 +36,14 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
 
 | **Sprint** | **Check**  |  **Scrum Asignado** 👨‍💻 |
 | ------------- | ------- | :-------------:|
-| Semana 1 | :heavy_check_mark:|*Sebastián García* |
-| Semana 2 | :heavy_check_mark:|*Federico Sosa* |
-| Semana 3 | <ul><li>- [ ] </li>|*Gabriela Manca* |
-| Semana 4 | <ul><li>- [ ] </li>|*Sebastián García* |
-| Semana 5 | <ul><li>- [ ] </li> |*Federico Sosa* |
-| Semana 6 | <ul><li>- [ ] </li> |*Gabriela Manca* |
-| Semana 7 | <ul><li>- [ ] </li>|*Sebastián García* |
-| Semana 8 | <ul><li>- [ ] </li> |*Federico Sosa* |
-| Semana 9 | <ul><li>- [ ] </li> |*Gabriela Manca* |
+| Semana 1 | :heavy_check_mark:|*Brega Javier* |
+| Semana 1 | :heavy_check_mark:|*Caballero Gabriel* |
+| Semana 1 | <ul><li>- [ ] </li>|*Cesaretti Gustavo* |
+| Semana 1 | <ul><li>- [ ] </li>|*Fernandez Leonardo* |
+| Semana 1 | <ul><li>- [ ] </li> |*Lopez Lucas* |
+| Semana 1 | <ul><li>- [ ] </li> |*Medina Mayra* |
+| Semana 1 | <ul><li>- [ ] </li>|*Peñalbe Nicole* |
+| Semana 1 | <ul><li>- [ ] </li> |*Ramírez Andrés* |
+| Semana 1 | <ul><li>- [ ] </li> |*Sorato Juan* |
 
 
