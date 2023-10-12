@@ -33,15 +33,15 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
  <h1>𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐧𝐭𝐞𝐬</h1>
 
 <h1>𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐝𝐞 𝐭𝐫𝐚𝐛𝐚𝐣𝐨</h1>
-|Integrante         |Check|
-|Brega Javier       |    . |
-|Caballero Gabriel  |    . |
-|Cesaretti Gustavo  |  .   |
-|Fernandez Leonardo |  .   |
-|Lopez Lucas        |   .  | 
-|Medina Mayra       |   .  | 
-|Peñalbe Nicole     |   .  | 
-|Ramírez Andrés     |   .  |
-|Sorato Juan        |    . |
+|**Integrante**     |**Check**|
+|Brega Javier       |:heavy_check_mark:|
+|Caballero Gabriel  |:heavy_check_mark:|
+|Cesaretti Gustavo  |:heavy_check_mark:|
+|Fernandez Leonardo |<ul><li>- [ ] </li>|
+|Lopez Lucas        |<ul><li>- [ ] </li>| 
+|Medina Mayra       |<ul><li>- [ ] </li>|  
+|Peñalbe Nicole     |<ul><li>- [ ] </li>|  
+|Ramírez Andrés     |<ul><li>- [ ] </li>|
+|Sorato Juan        |<ul><li>- [ ] </li>|
 
 
