@@ -34,14 +34,14 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
 
 <h1>𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐝𝐞 𝐭𝐫𝐚𝐛𝐚𝐣𝐨</h1>
 |Integrante         |Check|
-|Brega Javier       |     |
-|Caballero Gabriel  |     |
-|Cesaretti Gustavo  |     |
-|Fernandez Leonardo |     |
-|Lopez Lucas        |     | 
-|Medina Mayra       |     | 
-|Peñalbe Nicole     |     | 
-|Ramírez Andrés     |     |
-|Sorato Juan        |     |
+|Brega Javier       |    . |
+|Caballero Gabriel  |    . |
+|Cesaretti Gustavo  |  .   |
+|Fernandez Leonardo |  .   |
+|Lopez Lucas        |   .  | 
+|Medina Mayra       |   .  | 
+|Peñalbe Nicole     |   .  | 
+|Ramírez Andrés     |   .  |
+|Sorato Juan        |    . |
 
 
