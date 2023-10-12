@@ -33,15 +33,17 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
  <h1>𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐧𝐭𝐞𝐬</h1>
 
 <h1>𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐝𝐞 𝐭𝐫𝐚𝐛𝐚𝐣𝐨</h1>
-|**Integrante**     |**Check**|
-|Brega Javier       |:heavy_check_mark:|
-|Caballero Gabriel  |:heavy_check_mark:|
-|Cesaretti Gustavo  |:heavy_check_mark:|
-|Fernandez Leonardo |<ul><li>- [ ] </li>|
-|Lopez Lucas        |<ul><li>- [ ] </li>| 
-|Medina Mayra       |<ul><li>- [ ] </li>|  
-|Peñalbe Nicole     |<ul><li>- [ ] </li>|  
-|Ramírez Andrés     |<ul><li>- [ ] </li>|
-|Sorato Juan        |<ul><li>- [ ] </li>|
+
+| **Sprint** | **Check**  |  **Scrum Asignado** 👨‍💻 |
+| ------------- | ------- | :-------------:|
+| Semana 1 | :heavy_check_mark:|*Sebastián García* |
+| Semana 2 | :heavy_check_mark:|*Federico Sosa* |
+| Semana 3 | <ul><li>- [ ] </li>|*Gabriela Manca* |
+| Semana 4 | <ul><li>- [ ] </li>|*Sebastián García* |
+| Semana 5 | <ul><li>- [ ] </li> |*Federico Sosa* |
+| Semana 6 | <ul><li>- [ ] </li> |*Gabriela Manca* |
+| Semana 7 | <ul><li>- [ ] </li>|*Sebastián García* |
+| Semana 8 | <ul><li>- [ ] </li> |*Federico Sosa* |
+| Semana 9 | <ul><li>- [ ] </li> |*Gabriela Manca* |
 
 
