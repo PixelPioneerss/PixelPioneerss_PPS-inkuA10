@@ -1,4 +1,4 @@
-# ¡Hola! 👋🏻 Somos el grupo PixelPioneerss (Equipo 10) de inkuA
+# ¡Hola! 👋🏻 Somos PixelPioneerss (Equipo 10) de inkuA
 
  <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="java" width="100" height="100"/>
