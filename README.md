@@ -1,1 +1,1 @@
-# Pasantias_inkua10
+# ¡Hola! Somos el grupo PixelPioneerss (Equipo 10) de inkuA
