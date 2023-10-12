@@ -15,7 +15,7 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
   <li>Acceso Rápido con Stickers QR: HealthLoc va a implementar un sistema de stickers con códigos QR estratégicamente distribuidos en puntos específicos de la ciudad. Los usuarios pueden escanear estos códigos de forma gratuita para acceder instantáneamente a toda la información sobre los centros de salud cercanos.</li>
 </ul>
 
-
+𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 𝐚 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐫
  <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="java" width="100" height="100"/>
         </a>
