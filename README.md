@@ -38,16 +38,16 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
 <p> Presente: &#10004; </p>
 <p> Justificado: &#128995; </p>
 
-| **Sprint** | **Check**  |  **Scrum Asignado** 👨‍💻 |
-| ------------- | ------- | :-------------:|
-| Semana 1 | <ul><li>- [ ] </li>|*Brega Javier* |
-| Semana 1 | <ul><li>- [ ] </li>|*Caballero Gabriel* |
-| Semana 1 | <ul><li>- [ ] </li>|*Cesaretti Gustavo* |
-| Semana 1 | <ul><li>- [ ] </li>|*Fernandez Leonardo* |
-| Semana 1 | <ul><li>- [ ] </li> |*Lopez Lucas* |
-| Semana 1 | <ul><li>- [ ] </li> |*Medina Mayra* |
-| Semana 1 | <ul><li>- [ ] </li>|*Peñalbe Nicole* |
-| Semana 1 | <ul><li>- [ ] </li> |*Ramírez Andrés* |
-| Semana 1 | <ul><li>- [ ] </li> |*Sorato Juan* |
+| **Sprint** | **Check**           |  **Scrum Asignado** 👨‍💻 |
+| -----------| --------------------| :-------------:|
+| Reunión 1  | <ul><li>- [ ] </li> |*Brega Javier* |
+| Reunión 1  | <ul><li>- [ ] </li> |*Caballero Gabriel* |
+| Reunión 1  | <ul><li>- [ ] </li> |*Cesaretti Gustavo* |
+| Reunión 1  | <ul><li>- [ ] </li> |*Fernandez Leonardo* |
+| Reunión 1  | <ul><li>- [ ] </li> |*Lopez Lucas* |
+| Reunión 1  | <ul><li>- [ ] </li> |*Medina Mayra* |
+| Reunión 1  | <ul><li>- [ ] </li> |*Peñalbe Nicole* |
+| Reunión 1  | <ul><li>- [ ] </li> |*Ramírez Andrés* |
+| Reunión 1  | <ul><li>- [ ] </li> |*Sorato Juan* |
 
 
