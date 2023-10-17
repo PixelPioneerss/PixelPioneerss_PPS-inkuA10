@@ -40,16 +40,16 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
 
 | **Sprint** | **Check**           |  **Participante** 👨‍💻 |
 | -----------| --------------------| :-------------:|
-| Reunión 1  | <ul><li>- [ ] </li> |*Brega Javier* |
-| Reunión 1  | <ul><li>- [ ] </li> |*Caballero Gabriel* |
-| Reunión 1  | <ul><li>- [ ] </li> |*Cesaretti Gustavo* |
-| Reunión 1  | <ul><li>- [ ] </li> |*Fernandez Leonardo* |
+| Reunión 1  | &#10004;            |*Brega Javier* |
+| Reunión 1  | &#10004;            |*Caballero Gabriel* |
+| Reunión 1  | &#10004;            |*Cesaretti Gustavo* |
+| Reunión 1  | &#10004;            |*Fernandez Leonardo* |
 | Reunión 1  | <ul><li>- [ ] </li> |*Lopez Lucas* |
-| Reunión 1  | <ul><li>- [ ] </li> |*Medina Mayra* |
+| Reunión 1  | &#10004;            |*Medina Mayra* |
 | Reunión 1  | <ul><li>- [ ] </li> |*Modon Ricardo*|
 | Reunión 1  | <ul><li>- [ ] </li> |*Peñalbe Nicole* |
 | Reunión 1  | <ul><li>- [ ] </li> |*Ramírez Andrés* |
-| Reunión 1  | <ul><li>- [ ] </li> |*Sorato Juan* |
+| Reunión 1  | &#10004;            |*Sorato Juan* |
 
 
 
