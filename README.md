@@ -1,5 +1,5 @@
 # ¡Hola! 👋🏻 Somos PixelPioneerss (Equipo 10) de inkuA
-[![Global-Map-Pin-Location-App-Logo.png](https://i.postimg.cc/pTK9rZgM/Global-Map-Pin-Location-App-Logo.png)](https://postimg.cc/dktQS8s5)
+[![Global-Map-Pin-Location-App-Logo.png](https://i.postimg.cc/6qd1MDgb/Global-Map-Pin-Location-App-Logo.png)](https://postimg.cc/xN1RCF0L)
 <h1> 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢ó𝐧 𝐝𝐞𝐥 𝐩𝐫𝐨𝐲𝐞𝐜𝐭𝐨 </h1>
 --> Idea: 
 <ul>
