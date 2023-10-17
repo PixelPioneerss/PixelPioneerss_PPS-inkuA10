@@ -38,7 +38,7 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
 <p> Presente: &#10004; </p>
 <p> Justificado: &#128995; </p>
 
-| **Sprint** | **Check**           |  **Scrum Asignado** 👨‍💻 |
+| **Sprint** | **Check**           |  **Participante** 👨‍💻 |
 | -----------| --------------------| :-------------:|
 | Reunión 1  | <ul><li>- [ ] </li> |*Brega Javier* |
 | Reunión 1  | <ul><li>- [ ] </li> |*Caballero Gabriel* |
