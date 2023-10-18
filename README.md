@@ -45,11 +45,11 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
 | Reunión 1  | &#10004;            |*Caballero Gabriel* |
 | Reunión 1  | &#10004;            |*Cesaretti Gustavo* |
 | Reunión 1  | &#10004;            |*Fernandez Leonardo* |
-| Reunión 1  | <ul><li>- [ ] </li> |*Lopez Lucas* |
+| Reunión 1  |&#10004;             |*Lopez Lucas* |
 | Reunión 1  | &#10004;            |*Medina Mayra* |
 | Reunión 1  | &#10004;            |*Modon Ricardo*|
 | Reunión 1  |&#10004;             |*Peñalbe Nicole* |
-| Reunión 1  | <ul><li>- [ ] </li> |*Ramírez Andrés* |
+| Reunión 1  | &#10004;            |*Ramírez Andrés* |
 | Reunión 1  | &#10004;            |*Sorato Juan* |
 
 
