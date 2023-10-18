@@ -48,7 +48,7 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
 | Reunión 1  | <ul><li>- [ ] </li> |*Lopez Lucas* |
 | Reunión 1  | &#10004;            |*Medina Mayra* |
 | Reunión 1  | <ul><li>- [ ] </li> |*Modon Ricardo*|
-| Reunión 1  | <ul><li>- [ ] </li> |*Peñalbe Nicole* |
+| Reunión 1  |&#10004;             |*Peñalbe Nicole* |
 | Reunión 1  | <ul><li>- [ ] </li> |*Ramírez Andrés* |
 | Reunión 1  | &#10004;            |*Sorato Juan* |
 
