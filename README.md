@@ -40,7 +40,7 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
 
 | **Sprint** | **Check**           |  **Participante** 👨‍💻 |
 | -----------| --------------------| :-------------:|
-| Reunión 1  | <ul><li>- [ ] </li> |*Bergerat Santiago*|
+| Reunión 1  | &#10004;            |*Bergerat Santiago*|
 | Reunión 1  | &#10004;            |*Brega Javier* |
 | Reunión 1  | &#10004;            |*Caballero Gabriel* |
 | Reunión 1  | &#10004;            |*Cesaretti Gustavo* |
