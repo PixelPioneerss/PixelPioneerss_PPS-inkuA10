@@ -33,24 +33,17 @@ En muchade encontrar un centro de salud adecuado cuando lo necesitan con urgenci
         </a>
  <h1>𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐧𝐭𝐞𝐬</h1>
 
-<h1>𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐝𝐞 𝐭𝐫𝐚𝐛𝐚𝐣𝐨</h1>
-<p> Ausente: &#10060;</p>
-<p> Presente: &#10004; </p>
-<p> Justificado: &#128995; </p>
-
-| **Sprint** | **Check**           |  **Participante** 👨‍💻 |
-| -----------| --------------------| :-------------:|
-| Reunión 1  | &#10004;            |*Bergerat Santiago*|
-| Reunión 1  | &#10004;            |*Brega Javier* |
-| Reunión 1  | &#10004;            |*Caballero Gabriel* |
-| Reunión 1  | &#10004;            |*Cesaretti Gustavo* |
-| Reunión 1  | &#10004;            |*Fernandez Leonardo* |
-| Reunión 1  |&#10004;             |*Lopez Lucas* |
-| Reunión 1  | &#10004;            |*Medina Mayra* |
-| Reunión 1  | &#10004;            |*Modon Ricardo*|
-| Reunión 1  |&#10004;             |*Peñalbe Nicole* |
-| Reunión 1  | &#10004;            |*Ramírez Andrés* |
-| Reunión 1  | &#10004;            |*Sorato Juan* |
+👨‍💻*Bergerat Santiago*
+👨‍💻*Brega Javier* 
+👨‍💻*Caballero Gabriel* 
+👨‍💻*Cesaretti Gustavo* 
+👨‍💻*Fernandez Leonardo* 
+👨‍💻*Lopez Lucas* 
+👨‍💻*Medina Mayra* 
+👨‍💻*Modon Ricardo*
+👨‍💻*Peñalbe Nicole* 
+👨‍💻*Ramírez Andrés* 
+👨‍💻*Sorato Juan* 
 
 
 
